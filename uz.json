@@ -52,6 +52,12 @@
             "url": "https://tv.iill.top/m3u/Sport",
             "type": 10,
             "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+        },
+         {
+            "name": "TvLive",
+            "url": "https://ac.fookxue.top/tvzb.txt",
+            "type": 10,
+            "remark": "Tv直播"
         }
     ],
     "vod": [
@@ -391,6 +397,18 @@
             "type": 100
         },
          {
+            "api": "https://img.smdyw.top/api.php/provide/vod",
+            "name": "🔵神马影视"
+        },
+         {
+            "api": "http://aliys.cn:90/api.php/provide/vod/",
+            "name": "🔵我爱影视"
+        },
+         {
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+            "name": "🔵魔都资源"
+        },
+     {
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
         "name": "🔵黑木耳"
     },
@@ -423,6 +441,10 @@
         "name": "🔵360"
     },
     {
+            "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/xml",
+            "name": "🔵360资源"
+     },    
+    {
         "api": "http://www.feidaozy.com/api.php/provide/vod/",
         "name": "🔵飞刀"
     },
@@ -447,6 +469,10 @@
         "name": "🔵OK"
     },
     {
+            "api": "https://okzyw9.com/api.php/provide/vod/from/okm3u8/at/xml",
+            "name": "🔵OK资源"
+     },
+    {
         "api": "https://zpsps.com/api.php/provide/vod/",
         "name": "🔵宝片"
     },
@@ -466,6 +492,10 @@
         "api": "https://cj.yayazy.net/api.php/provide/vod/",
         "name": "🔵丫丫"
     },
+     {
+            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
+            "name": "丫丫资源"
+     },
     {
         "api": "https://cj.vodimg.top/api.php/provide/vod/",
         "name": "🔵影图"
