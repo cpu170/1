@@ -788,42 +788,6 @@
         "noHistory": true,
         "isLock": true
     },
-     {
-        "api": "https://apiyutu.com/api.php/provide/vod/",
-        "name": "🔞玉兔资源",
-        "noHistory": true,
-        "isLock": true
-    },
-     {
-        "api": "https://api.yinwoapi.com/api.php/provide/vod/at/xml",
-        "name": "🔞淫窝资源",
-        "noHistory": true,
-        "isLock": true
-    },
-     {
-        "api": "https://api.xiuseapi.com/api.php/provide/vod/",
-        "name": "🔞秀色资源",
-        "noHistory": true,
-        "isLock": true
-    },
-     {
-        "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
-        "name": "🔞小姐姐资源",
-        "noHistory": true,
-        "isLock": true
-    },
-     {
-        "api": "https://xjzyapi.com/api.php/provide/vod/at/xml",
-        "name": "🔞香蕉资源",
-        "noHistory": true,
-        "isLock": true
-    },
-     {
-        "api": "https://siwazyw.cc/api.php/provide/vod/at/xml/",
-        "name": "🔞丝袜资源",
-        "noHistory": true,
-        "isLock": true
-    },
     {
         "api": "https://api.ddapi.cc/api.php/provide/vod/",
         "name": "🔞滴滴资源",
