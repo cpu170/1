@@ -800,6 +800,30 @@
         "noHistory": true,
         "isLock": true
     },
+      {
+        "api": "https://caiji.putaozy.net/inc/seacms.php",
+        "name": "🔞葡萄资源",
+        "noHistory": true,
+        "isLock": true
+    },
+     {
+        "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
+        "name": "🔞奥斯卡资源",
+        "noHistory": true,
+        "isLock": true
+    },
+     {
+        "api": "https://dadiapi.com/api.php",
+        "name": "🔞大地资源",
+        "noHistory": true,
+        "isLock": true
+    },
+      {
+        "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+        "name": "🔞滴滴资源",
+        "noHistory": true,
+        "isLock": true
+    },
     {
         "api": "https://www.jingpinx.com/api.php/provide/vod/",
         "name": "🔞精品资源",
