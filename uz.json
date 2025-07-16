@@ -71,7 +71,69 @@
             "type": 101
         },
          {"name":"[直] 修罗","version":2,"webSite":"https://xl01.com.de","order":"C","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/biliys.js","type":101},
+        {"name":"[嗅] 立播","version":1,"remark":"🍃豆儿出品，不属精品！","webSite":"https://libvio.mov/","order":"D","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_libvio.js","type":101},
+        {"name":"[嗅] 路漫漫","version":1,"webSite":"https://www.lmm97.com","order":"D","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_lmm.js","type":101},
+        {"name":"[嗅] 八号影视","version":1,"webSite":"https://www.bahaotv.com","order":"D","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_bhys.js","type":101},
+        {"name":"[嗅] E-ACG","version":1,"webSite":"https://eacg1.com","order":"D","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/eacg.js","type":101},
+        {"name":"[嗅] E-ACG2","version":1,"webSite":"https://eacg1.com","order":"D","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/eacg2.js","type":101},
+        {
+      "name": "[嗅] MuteFun",
+      "version": 1,
+      "webSite": "https://www.mutean.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_MuteFun.js",
+      "type": 101
+    },
+    {
+      "name": "[嗅] girigirilove",
+      "version": 1,
+      "webSite": "https://anime.girigirilove.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/aggl.js",
+      "type": 101
+    },
+     {
+      "name": "[嗅] 樱花动漫",
+      "version": 1,
+      "webSite": "https://www.vdm5.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_yhdm.js",
+      "type": 101
+    },
+    {
+      "name": "[嗅] 风车动漫",
+      "version": 1,
+      "webSite": "https://www.tt776b.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_fcdm.js",
+      "type": 101
+    },
         
+    {
+      "name": "[嗅] MX动漫",
+      "version": 1,
+      "webSite": "https://www.mxdm6.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_mxdm.js",
+      "type": 101
+    },
+    {
+      "name": "[嗅] NT动漫",
+      "version": 1,
+      "webSite": "https://www.ntdm9.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_ntdm.js",
+      "type": 101
+    },
+        
+        {
+      "name": "[嗅] 路漫漫",
+      "version": 1,
+      "webSite": "https://www.lmm97.com",
+      "order": "D",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_lmm.js",
+      "type": 101
+    },
         {
             "name": "厂长视频",
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/changZhang20240614.js",
