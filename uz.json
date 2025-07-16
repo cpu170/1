@@ -70,6 +70,8 @@
             "version": "3",
             "type": 101
         },
+         {"name":"[直] 修罗","version":2,"webSite":"https://xl01.com.de","order":"C","api":"https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/biliys.js","type":101},
+        
         {
             "name": "厂长视频",
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/changZhang20240614.js",
